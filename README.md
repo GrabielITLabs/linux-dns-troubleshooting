@@ -60,3 +60,22 @@ Reverted nameserver to:
 ```bash
 ping -c 4 google.com
 ```
+## 📸 Screenshots
+
+### Baseline (Working DNS)
+![Step 1](./screenshots/step1-baseline-dns-working.png)
+
+### DNS Misconfigured
+![Step 2](./screenshots/step2-dns-misconfigured.png)
+
+### DNS Failure
+![Step 3](./screenshots/step3-dns-resolution-failure.png)
+
+### IP Connectivity Still Works
+![Step 4](./screenshots/step4-ip-connectivity-working.png)
+
+### DNS Restored
+![Step 5](./screenshots/step5-dns-restored-config.png)
+
+### Final Verification
+![Step 6](./screenshots/step6-dns-working-again.png)
